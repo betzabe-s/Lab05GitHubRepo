@@ -1,0 +1,6 @@
+'******************************************************
+' Student: Betzabe C. Suazo
+' Date: 03/05/2025
+'Project: Assignment P2: Payroll Calculator GUI Development Project
+'Class Name: CPSC 3118 Section V01
+'******************************************************
